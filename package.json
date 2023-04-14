@@ -6,6 +6,9 @@
     "husky": "^7.0.0"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "scripts": {
+      "start": "node index.js"
+    }
   }
 }

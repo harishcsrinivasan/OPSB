@@ -31,6 +31,8 @@
 
 ## Key Features
 
+-ignore this readme
+
 - iOS & Android
 - Google Auth
 - Matching Algorithm
